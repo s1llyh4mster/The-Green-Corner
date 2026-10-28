@@ -22,3 +22,10 @@ body{
     font-weight: bold;
     color: white;
 }
+
+.about-text-img{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+}
