@@ -160,3 +160,97 @@ body {
     font-size: 48px;
     color: #FFFFFF;
 }
+
+.about-section{
+    padding: 90px 60px 30px 85px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 70px;
+}
+
+.about-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+
+.about-text-img{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.about-description{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    width: 50%;
+}
+
+.about-img-box{
+    width: 473px;
+    height: 473px;
+    border-radius: 10px;
+}
+
+.about-img-box img{
+    width: 100%;
+    height: 100%;
+}
+
+.contacts-section{
+    padding: 30px 70px;
+    background-color: #38514F;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    margin: 40px 60px;
+    gap: 40px;
+}
+
+.contacts-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.contacts-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contacts{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.tel,
+.email,
+.adress{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+footer{
+    background-color: #1C2625;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 38px 0 38px;
+}
+
+.copyright{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #D9D9D9;
+}
