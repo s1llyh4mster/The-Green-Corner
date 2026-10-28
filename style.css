@@ -15,3 +15,10 @@ body{
     align-items: center;
     gap: 70px;
 }
+
+.about-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
