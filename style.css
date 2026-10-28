@@ -11,7 +11,6 @@ body {
 }
 
 .container {
-    max-width: 1347px;
     margin: 0 auto;
     padding: 20px;
 }
@@ -25,6 +24,7 @@ body {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 10px;
+    width: 100%;
 }
 
 .logo {
