@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #94B4B2;
+}
+
+.new-plants {
+    margin-top: 61px;
+}
+
+.new-full-page {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 61px;
+}
+
+.new-full-page h1 {
+    font-size: 48px;
+    color: #FFFFFF;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+
+.card {
+    background-color: #D9D9D9;
+    color: #587977;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: start;
+    max-width: 355px;
+    width: 100%;
+    height: 421.56px;
+    border-radius: 15px;
+    padding: 37px 51px 131px;
+    font-size: 25px;
+}
+
+.product-catalog {
+    margin-top: 94px;
+}
+
+.catalog-full-page {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 79px;
+}
+
+.catalog-full-page h1 {
+    font-size: 48px;
+    color: #FFFFFF;
+}
