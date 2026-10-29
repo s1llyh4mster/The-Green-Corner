@@ -54,10 +54,11 @@ body {
     font-size: 15px;
     font-weight: 400;
     transition: opacity 0.3s ease;
+    opacity: 0.7;
 }
 
 .navigation a:hover {
-    opacity: 0.7;
+    opacity: 1;
 }
 
 .hero {
@@ -142,6 +143,7 @@ body {
     height: 421.56px;
     border-radius: 15px;
     padding: 37px 51px 131px;
+    gap: 40px;
     font-size: 25px;
 }
 
@@ -186,7 +188,6 @@ body {
 .about-description{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 32px;
-    font-weight: bold;
     color: white;
     width: 50%;
 }
